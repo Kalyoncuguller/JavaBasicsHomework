@@ -61,4 +61,5 @@ public class Main {
                 System.out.println("Geçersiz seçenek!");
         }
     }
+    tarayici.close();
 }

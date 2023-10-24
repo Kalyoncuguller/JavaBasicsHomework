@@ -60,6 +60,7 @@ public class Main {
             default:
                 System.out.println("Geçersiz seçenek!");
         }
+            tarayici.close();
     }
-    tarayici.close();
+
 }
